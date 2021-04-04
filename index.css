@@ -1,0 +1,48 @@
+.menu {
+    display: flex;
+    justify-content : space-around;
+    font-family: Nakula;
+    background: aqua;
+    font-size: 30px;
+}
+
+.createfriend {
+    font-family: Nakula;
+    font-size: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    font-family: Nakula;
+    font-size: 50px;
+}
+
+.newfriend img{
+    height: 50%;
+    width: 40%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.friends img{
+    height: 60%;
+    width: 40%;
+    display: flex;
+    margin-left: auto;
+    margin-right: auto
+}
+
+form{
+    font-family: Nakula;
+    font-size: 30px;
+}
+
+p {
+    display: flex;
+    justify-content : space-around;
+    font-family: Nakula;
+    background: aqua;
+    font-size: 30px;
+ }
